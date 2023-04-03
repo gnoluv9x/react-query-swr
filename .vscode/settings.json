@@ -1,0 +1,7 @@
+{
+  "files.associations": {
+    "**/src/**/*.js": "javascriptreact",
+    "**/src/utils/**/*.js": "javascript",
+    "**/src/**/*.jsx": "javascriptreact"
+  }
+}
